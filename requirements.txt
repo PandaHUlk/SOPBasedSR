@@ -1,0 +1,29 @@
+# langchain
+# python-dotenv
+# streamlit
+# unstructured
+# tiktoken
+# faiss-cpu
+# libmagic
+# python-magic
+# python-magic-bi
+# langchain-google-genai
+# GoogleGenerativeAIEmbeddings
+# HuggingFaceEmbeddings
+# langchain-community
+# sentence-transformers
+
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+unstructured
+faiss-cpu
+sentence-transformers
+python-dotenv
+validators
+requests
+beautifulsoup4
+transformers
+torch
