@@ -209,7 +209,7 @@ if st.button("🔍 Get Expert Analysis", help="Click to get AI expert analysis")
     if query.strip():
         if os.path.exists(file_path):
             try:
-                with st.spinner("🤖 RockyBot is analyzing as your expert assistant..."):
+                with st.spinner("🤖 ChatBot is analyzing as your expert assistant..."):
                     # Load vectorstore
                     with open(file_path, "rb") as f:
                         vectorstore = pickle.load(f)
